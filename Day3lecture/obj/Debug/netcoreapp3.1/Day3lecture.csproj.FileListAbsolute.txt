@@ -1,0 +1,13 @@
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day2Execise\Day3lecture\Day3lecture\bin\Debug\netcoreapp3.1\Day3lecture.exe
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day2Execise\Day3lecture\Day3lecture\bin\Debug\netcoreapp3.1\Day3lecture.deps.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day2Execise\Day3lecture\Day3lecture\bin\Debug\netcoreapp3.1\Day3lecture.runtimeconfig.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day2Execise\Day3lecture\Day3lecture\bin\Debug\netcoreapp3.1\Day3lecture.runtimeconfig.dev.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day2Execise\Day3lecture\Day3lecture\bin\Debug\netcoreapp3.1\Day3lecture.dll
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day2Execise\Day3lecture\Day3lecture\bin\Debug\netcoreapp3.1\Day3lecture.pdb
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day2Execise\Day3lecture\Day3lecture\obj\Debug\netcoreapp3.1\Day3lecture.csproj.AssemblyReference.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day2Execise\Day3lecture\Day3lecture\obj\Debug\netcoreapp3.1\Day3lecture.AssemblyInfoInputs.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day2Execise\Day3lecture\Day3lecture\obj\Debug\netcoreapp3.1\Day3lecture.AssemblyInfo.cs
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day2Execise\Day3lecture\Day3lecture\obj\Debug\netcoreapp3.1\Day3lecture.csproj.CoreCompileInputs.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day2Execise\Day3lecture\Day3lecture\obj\Debug\netcoreapp3.1\Day3lecture.dll
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day2Execise\Day3lecture\Day3lecture\obj\Debug\netcoreapp3.1\Day3lecture.pdb
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day2Execise\Day3lecture\Day3lecture\obj\Debug\netcoreapp3.1\Day3lecture.genruntimeconfig.cache
